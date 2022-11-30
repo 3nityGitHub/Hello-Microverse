@@ -1,20 +1,26 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Table of Contents
 
-  *About the Project
+  * About the Project
    - Built With
+
   *Getting Started
     - Prerequisites
     - Setup
     - Install
-    -Usage
+    - Usage
     - Run test
-    -Deployment
-  *Authors
-  *Contributing
-  *Show your support
-  *Acknowledgements
-  *License
+    - Deployment
+
+  * Authors
+
+  * Contributing
+
+  * Show your support
+
+  * Acknowledgements
+
+  * License
 
 # HELLO MICROVERSE
 
